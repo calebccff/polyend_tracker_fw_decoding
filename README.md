@@ -8,6 +8,8 @@ The MK66FX1M0VLQ18 has 1.25MB of internal flash.
 
 ## File format
 
+**The file format is actually the Intel HEX format: https://en.wikipedia.org/wiki/Intel_HEX**
+
 Tracker firmware file format.
 
 Several types of command?, predominantly "data" lines and "address" lines.
